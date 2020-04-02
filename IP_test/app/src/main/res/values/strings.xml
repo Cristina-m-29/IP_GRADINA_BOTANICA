@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IP_test</string>
+    <string name="select_image">Select image</string>
+    <string name="type">type</string>
+</resources>

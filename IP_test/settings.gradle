@@ -1,0 +1,2 @@
+rootProject.name='IP_test'
+include ':app'
